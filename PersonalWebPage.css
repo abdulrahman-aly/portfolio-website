@@ -1,0 +1,660 @@
+body {
+    font-family: "Kanit", sans-serif;
+    background-color: rgb(230, 220, 220);
+    padding: 0%;
+
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.navbar {
+    font-size: 1.2rem;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    border-bottom: 2px solid rgb(49, 102, 34);
+    width: 15%;
+    margin-left: 40px;
+    padding-bottom: 0;
+    justify-content: center;
+    text-align: center;
+}
+
+.aboutme {
+    color: rgb(49, 102, 34);
+    padding-top: 30px;
+    border-bottom: 2px solid rgb(49, 102, 34);
+    padding-top: 5px;
+    margin: auto;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.collapse {
+    font-weight: 200;
+    /* align-items: center;
+    justify-content: center;
+    text-align: center; */
+}
+
+.navbar-toggler {
+    margin-right: 20px;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: rgb(155, 205, 155);
+}
+
+.myname {
+    font-size: 3rem;
+}
+
+.aast {
+    font-weight: 600;
+}
+
+#firstimg {
+    padding-right: 0;
+}
+
+#secondimg {
+    padding-right: 0;
+    margin-bottom: 30px;
+}
+
+#firstcontainer {
+    padding-top: 60px;
+}
+
+#headingGroup .myname {
+    color: rgb(49, 102, 34);
+    border-bottom: 2px solid rgb(49, 102, 34);
+    /* border-left: 6px solid rgb(0, 0, 0); */
+
+    margin: auto;
+}
+
+#headingGroup {
+    padding-left: 12px;
+}
+
+.myname {
+    width: 30%;
+}
+
+.mainname {
+    color: black;
+
+}
+
+.birthdate {
+    color: rgb(49, 102, 34);
+    border-bottom: 2px solid rgb(49, 102, 34);
+    margin: auto;
+    width: 40%;
+    font-size: 3rem;
+    /* border-left: 6px solid rgb(0, 0, 0); */
+
+
+
+}
+
+.mainbirth {
+    color: black;
+}
+
+.email {
+    color: rgb(49, 102, 34);
+    border-bottom: 2px solid rgb(49, 102, 34);
+    margin: auto;
+    width: 30%;
+    font-size: 3rem;
+    /* border-left: 6px solid rgb(0, 0, 0); */
+
+
+}
+
+.mainemail {
+    color: black;
+}
+
+.adress {
+    color: rgb(49, 102, 34);
+    border-bottom: 2px solid rgb(49, 102, 34);
+    margin: auto;
+    width: 30%;
+    font-size: 3rem;
+    /* border-left: 6px solid rgb(0, 0, 0); */
+
+
+}
+
+.mainadress {
+    color: black;
+}
+
+
+
+.skills {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    width: 30%;
+    border-bottom: 2px solid rgb(49, 102, 34);
+    /* border-left: 6px solid rgb(0, 0, 0); */
+    color: rgb(49, 102, 34);
+    margin-bottom: 20px;
+
+}
+
+#thirdcontainer {
+    padding: 0;
+}
+
+.htmlphoto {
+    width: 100px;
+}
+
+.linkedinphoto {
+    width: 70px;
+    border-radius: 200px;
+    padding-top: 20px;
+}
+
+.htmlsection {
+    width: 50%;
+    margin: auto;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border-bottom: 2px solid rgb(49, 102, 34);
+}
+
+.linkedinsection {
+    width: 50%;
+    margin: auto;
+    padding-top: 40px;
+    padding-bottom: 50px;
+    border-bottom: 2px solid rgb(49, 102, 34);
+}
+
+.cssphoto {
+    width: 100px;
+    padding-bottom: 20px;
+
+}
+
+.instagramphoto {
+    width: 70px;
+    /* height: 225px; */
+    /* border-radius: 50%; */
+    padding-bottom: 20px;
+    padding-top: 20px;
+
+    padding-top: 20px;
+}
+
+.csssection {
+    width: 50%;
+    margin: auto;
+    padding-bottom: 20px;
+    border-bottom: 2px solid rgb(49, 102, 34);
+}
+
+.instagramsection {
+    width: 50%;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid rgb(49, 102, 34);
+}
+
+#secondimg {
+    padding: 0;
+}
+
+.bootstrapphoto {
+    width: 90px;
+    padding-bottom: 20px;
+
+}
+
+.facebookphoto {
+    width: 100px;
+    height: 120px;
+    /* border-radius: 50%; */
+    padding-bottom: 20px;
+}
+
+.bootstrapsection {
+    width: 50%;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid rgb(49, 102, 34);
+}
+
+.facebooksection {
+    width: 50%;
+    margin: auto;
+    padding-bottom: 10px;
+    border-bottom: 2px solid rgb(49, 102, 34);
+}
+
+.cppphoto {
+    width: 80px;
+    border-radius: 100%;
+    padding-bottom: 20px;
+
+}
+
+.xphoto {
+    width: 75px;
+    padding-top: 20px;
+
+    /* border-radius: 50%; */
+    padding-bottom: 20px;
+}
+
+.cppsection {
+    width: 50%;
+    margin: auto;
+    padding-bottom: 20px;
+    border-bottom: 2px solid rgb(49, 102, 34);
+}
+
+.xsection {
+    width: 50%;
+    margin: auto;
+    padding-bottom: 20px;
+    border-bottom: 2px solid rgb(49, 102, 34);
+}
+
+.lightroomphoto {
+    width: 90px;
+    border-radius: 50%;
+    padding-bottom: 20px;
+
+}
+
+.lightroomsection {
+    width: 50%;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid rgb(49, 102, 34);
+}
+
+.photoshopphoto {
+    width: 100px;
+    padding-bottom: 20px;
+
+    /* border-radius: 50%; */
+}
+
+.photoshopsection {
+    width: 50%;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid rgb(49, 102, 34);
+}
+
+.vnphoto {
+    width: 100px;
+    padding-bottom: 20px;
+
+}
+
+.vnsection {
+    width: 50%;
+    margin: auto;
+    padding-bottom: 20px;
+    border-bottom: 2px solid rgb(49, 102, 34);
+}
+
+.lightphoto {
+    width: 100px;
+    padding-bottom: 20px;
+
+}
+
+.lightsection {
+    width: 50%;
+    margin: auto;
+    padding-bottom: 40px;
+}
+
+.mylens {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    width: 30%;
+    border-bottom: 2px solid rgb(49, 102, 34);
+    color: rgb(49, 102, 34);
+    margin-bottom: 20px;
+    padding-top: 30px;
+}
+
+#furphotoscontainer {
+    padding-top: 40px;
+}
+
+.firstfurimage {
+    width: 120%;
+}
+
+.secondfurimage {
+    width: 120%;
+}
+
+.thirdfurimage {
+    width: 120%;
+}
+
+#cinematicphotoscontainer {
+    padding-top: 40px;
+}
+
+.firstcinimage {
+    width: 120%;
+
+}
+
+.secondcinimage {
+    width: 120%;
+
+}
+
+.thirdcinimage {
+    width: 120%;
+
+}
+
+#islamicphotoscontainer {
+    padding-top: 40px;
+
+}
+
+.firstislamicimage {
+    width: 120%;
+
+}
+
+.secondislamicimage {
+    width: 120%;
+
+}
+
+.thirdislamicimage {
+    width: 120%;
+
+}
+
+.firstnatureimage {
+    width: 120%;
+
+}
+
+.secondnatureimage {
+    width: 120%;
+
+}
+
+.thirdnatureimage {
+    width: 120%;
+
+}
+
+#naturephotoscontainer {
+    padding-top: 40px;
+
+}
+
+.contact {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    width: 30%;
+    border-bottom: 2px solid rgb(49, 102, 34);
+    color: rgb(49, 102, 34);
+    margin-bottom: 20px;
+    padding-top: 30px;
+}
+
+.linkedinlink {
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    border-bottom: 1px solid rgb(254, 254, 254);
+}
+
+.instagramlink {
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    border-bottom: 1px solid rgb(254, 254, 254);
+
+}
+
+.xlink {
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    border-bottom: 1px solid rgb(254, 254, 254);
+
+}
+
+.facebooklink {
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    border-bottom: 1px solid rgb(254, 254, 254);
+
+}
+
+@media(max-width: 1500px) {
+    #headingGroup h1 {
+        font-size: 2.5rem;
+    }
+
+    .mylens {
+        width: 80%;
+    }
+}
+
+@media(max-width: 1300px) {
+    #headingGroup h1 {
+        font-size: 2.5rem;
+    }
+
+    .mylens {
+        width: 80%;
+    }
+}
+
+@media(max-width: 700px) {
+
+    #headingGroup {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    #headingGroup h1 {
+        font-size: 2rem;
+
+    }
+
+    #headingGroup h2 {
+        font-size: 1.5rem;
+    }
+
+    #headingGroup .mainemail {
+        font-size: 1.3rem;
+    }
+
+    .birthdate {
+        width: 60%;
+    }
+
+    .adress {
+        width: 60%;
+    }
+
+    .myname {
+        width: 60%;
+    }
+
+    .email {
+        width: 60%;
+    }
+
+    #headingGroup .mainadress {
+        font-size: 1.3rem;
+    }
+
+    .lead {
+        padding-bottom: 10px;
+        border-bottom: 2px solid white;
+    }
+
+    .mylens {
+        width: 80%;
+    }
+
+    .contact {
+        width: 80%;
+
+    }
+
+    .firstfurimage {
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        width: 80%;
+        padding: 0%;
+
+    }
+
+    .secondfurimage {
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        width: 80%;
+        padding: 0%;
+
+    }
+
+    .thirdfurimage {
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        width: 80%;
+        padding: 0%;
+    }
+
+    .firstcinimage {
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        width: 70%;
+        padding: 0%;
+    }
+
+    .secondcinimage {
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        width: 70%;
+        padding: 0%;
+    }
+
+    .thirdcinimage {
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        width: 70%;
+        padding: 0%;
+    }
+
+    .firstnatureimage {
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        width: 70%;
+        padding: 0%;
+    }
+
+    .secondnatureimage {
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        width: 70%;
+        padding: 0%;
+    }
+
+    .thirdnatureimage {
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        width: 70%;
+        padding: 0%;
+    }
+
+    #furphotoscontainer {
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        padding: 0;
+        margin: 0;
+    }
+
+    .firstislamicimage {
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        width: 85%;
+        padding: 0%;
+    }
+
+    .secondislamicimage {
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        width: 85%;
+        padding: 0%;
+    }
+
+    .thirdislamicimage {
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        width: 85%;
+        padding: 0%;
+    }
+
+    .navbar-brand {
+        font-size: 1.5rem;
+        border-bottom: 2px solid rgb(49, 102, 34);
+        width: 60%;
+        margin-left: 20px;
+        padding-bottom: 0;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
+}
